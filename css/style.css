@@ -50,7 +50,7 @@ body {
 
 .nav>li>a {
     text-decoration: none;
-    color: #202020;
+    color: #89e6e1;
 }
 
 .logo {
@@ -131,7 +131,7 @@ body {
     font-weight: 300;
     background-color: #fff;
     padding: 5px 15px;
-    color: #C2C2C2;
+    color: rgb(92, 116, 121);
 }
 
 .button {
@@ -253,4 +253,9 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+
+.id {
+    height: 0;
+    width: 0;
 }
